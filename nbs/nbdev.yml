@@ -4,6 +4,6 @@ project:
 website:
   title: "Scientist-Experiment-Optimization"
   site-url: "https://2catycm.github.io/Scientist-Experiment-Optimization"
-  description: ""
+  description: "A Simple and Interpretable Blackbox Gradient Free Single Objective Optimization for Hyper-Parameter Searching by Controlling Every Variables Independently."
   repo-branch: main
   repo-url: "https://github.com/2catycm/Scientist-Experiment-Optimization"
