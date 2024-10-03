@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Scientist-Experiment-Optimization"
+  site-url: "https://2catycm.github.io/Scientist-Experiment-Optimization"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/2catycm/Scientist-Experiment-Optimization"
